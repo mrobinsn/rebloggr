@@ -5,7 +5,9 @@ Utility to transfer all of your posts from one Tumblr blog to another via reblog
 **WARNING**: *this tool deletes the posts from the original blog after reblogging!*
 
 ## Install with
-Requires a working [Go](https://golang.org/) installation.
+Download one of the pre-built binaries for your platform on the Releases tab.
+
+Alternatively install from source (Requires a working [Go](https://golang.org/) installation):
 ```
 go get -u github.com/tehjojo/rebloggr
 ```
