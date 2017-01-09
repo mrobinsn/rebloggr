@@ -1,7 +1,7 @@
 
 LAST_TAG := $(shell git describe --abbrev=0 --tags)
 
-USER := tehjojo
+USER := mrobinsn
 EXECUTABLE := rebloggr
 
 # only include the amd64 binaries, otherwise the github release will become too big

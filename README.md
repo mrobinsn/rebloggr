@@ -9,7 +9,7 @@ Download one of the pre-built binaries for your platform on the Releases tab.
 
 Alternatively install from source (Requires a working [Go](https://golang.org/) installation):
 ```
-go get -u github.com/tehjojo/rebloggr
+go get -u github.com/mrobinsn/rebloggr
 ```
 
 ## Use
@@ -20,7 +20,7 @@ Setup environment (or optionally use CLI flags):
 ```
 export REBLOGGR_CONSUMER_KEY=HKetaxxxxxxxxxp8ZTJVE
 export REBLOGGR_CONSUMER_SECRET=zb4twxxxxxxxxxwPZoLB
-export REBLOGGR_CALLBACK_URL=https://github.com/tehjojo/rebloggr
+export REBLOGGR_CALLBACK_URL=https://github.com/mrobinsn/rebloggr
 ```
 
 Generate an OAUTH 1.0 token so that the tool can act on behalf of your Tumblr account:
