@@ -14,7 +14,7 @@ go get -u github.com/mrobinsn/rebloggr
 
 ## Use
 
-You must [register](https://www.tumblr.com/oauth/apps) an "application" with Tumblr to get a Consuner Key and Consumer Secret.
+You must [register](https://www.tumblr.com/oauth/apps) an "application" with Tumblr to get a Consumer Key and Consumer Secret.
 
 Setup environment (or optionally use CLI flags):
 ```
